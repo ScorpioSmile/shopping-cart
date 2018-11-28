@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+th, td {
+	border: 1px solid #000;
+	padding: 10px;
+}
+input[type=text] {
+	width: 30px;
+	text-align: center;
+}
+input[type=checkbox] {
+	width: 25px;
+	height: 25px;
+}
+a {
+	text-decoration: none;
+	color: #ccc;
+}
+a:hover {
+	color: red;
+}
+p {
+	width: 700px;
+	margin: 20px auto;
+	text-align: right;
+}
+p span {
+	font-size: 22px;
+	color: red;
+	font-weight: bold;
+}
